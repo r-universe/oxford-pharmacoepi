@@ -1,0 +1,8 @@
+[
+  {
+    "package": "omopgenerics",
+    "url": "https://github.com/darwin-eu-dev/omopgenerics",
+    "via": ["visOmopResults"],
+    "from": "visOmopResults"
+  }
+]
