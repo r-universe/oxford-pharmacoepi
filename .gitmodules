@@ -9,6 +9,3 @@
 	path = omopgenerics
 	url = https://github.com/darwin-eu-dev/omopgenerics
 	registered = false
-[submodule "visOmopResults"]
-	path = visOmopResults
-	url = https://github.com/oxford-pharmacoepi/visomopresults
