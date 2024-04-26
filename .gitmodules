@@ -5,7 +5,3 @@
 [submodule "omock"]
 	path = omock
 	url = https://github.com/oxford-pharmacoepi/omock
-[submodule "omopgenerics"]
-	path = omopgenerics
-	url = https://github.com/darwin-eu-dev/omopgenerics
-	registered = false
