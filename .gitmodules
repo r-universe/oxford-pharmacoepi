@@ -5,6 +5,3 @@
 [submodule "CohortSymmetry"]
 	path = CohortSymmetry
 	url = https://github.com/oxford-pharmacoepi/cohortsymmetry
-[submodule "omock"]
-	path = omock
-	url = https://github.com/oxford-pharmacoepi/omock
