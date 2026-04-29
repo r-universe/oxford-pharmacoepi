@@ -5,3 +5,6 @@
 [submodule "EpiStandard"]
 	path = EpiStandard
 	url = https://github.com/oxford-pharmacoepi/epistandard
+[submodule "OmopStudyBuilder"]
+	path = OmopStudyBuilder
+	url = https://github.com/oxford-pharmacoepi/omopstudybuilder
